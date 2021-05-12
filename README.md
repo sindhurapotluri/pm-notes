@@ -20,7 +20,7 @@
       * Reward criteria
       * Conflict tolerance
       * Means-ends orientation
-      * pen-systems focus
+      * open-systems focus
    8. The Importance of Top Management Commitment
    9. People in top management positions are key stakeholders in projects
       * A very important factor in helping project managers successfully lead projects is the level of commitment and support they receive from top management Without top             management commitment, many projects will fail.
