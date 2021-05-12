@@ -1,6 +1,7 @@
 # pm-notes
-## A system view on project management.
-
+## Today's pm class.
+    
+      A system view on project management.
    1. Taking a holistic view of carrying out projects within the context of the organization
    2. A systems approach emerged in the 1950s to describe a holistic and analytical approach to management and problem solving.
    3. Learning objectives of recent trends affecting IT project management, including globalization, outsourcing, virtual teams, and agile project management
